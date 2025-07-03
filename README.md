@@ -1,5 +1,4 @@
 # deeploycv
-This is a project I did under the google developers guild during my winter break in the first semester.
 We created a GAN model that was used for traffic data imputation. 
 
 The dataset used for this was: https://www.kaggle.com/datasets/aryashah2k/highway-traffic-videos-dataset
